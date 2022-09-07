@@ -1,16 +1,27 @@
-# tasarim_odevi
+# Tasarım Ödevi
 
-A new Flutter project.
+Morhipo uygulama arayüzünün kopyası tasarlanması.
 
-## Getting Started
+## Ekran Görüntüleri
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <th>Orjinal Tasarım</th>
+    <th>Yapılan Tasarım</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/9364520/188979416-7e3907dd-ac23-4ce6-a3aa-88eba147e65f.jpg" alt="Orjinal" style="width: 50%;">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/9364520/188979365-bc580d64-fcce-4e63-910f-25f1f22d3de6.png" alt="ScreenShot" style="width: 50%;">
+    </td>
+  </tr>
 
-A few resources to get you started if this is your first Flutter project:
+</table>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
